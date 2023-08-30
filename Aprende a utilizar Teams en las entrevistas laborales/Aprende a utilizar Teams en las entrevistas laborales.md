@@ -11,3 +11,13 @@ Nota: Se recomienda utilizar Microsoft Teams en Microsoft Edge, Google Chrome o 
 
 Nota: Se añadió recientemente en Microsoft Teams la supresión de fondo y ruido, asi como también el uso de filtros de Snapchat.
 
+### Características:
+
+- Chat en tiempo real.
+- Canales.
+- Videollamadas y conferencias.
+- Integración con herramientas de Microsoft.
+- Aplicaciones y complementos.
+- Automatización con Microsoft Power Platform.
+- Seguridad y cumplimiento.
+- Aplicación móvil.

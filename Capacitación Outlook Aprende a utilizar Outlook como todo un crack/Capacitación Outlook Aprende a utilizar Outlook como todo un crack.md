@@ -5,3 +5,15 @@ Outlook es una plataforma de software creada por Microsoft que ofrece una varied
 
 ![](imgs/capture_1.jpeg)
 ![](imgs/capture_2.jpeg)
+
+Nota: Tambien se tiene disponible una versión de escritorio. la cual incluye algunas opciones adicionales.
+
+### Características:
+
+- Correo Electrónico.
+- Calendario.
+- Contactos.
+- Tareas y Notas.
+- Integración con Microsoft 365.
+- Funciones de Productividad.
+- Seguridad.
