@@ -1,4 +1,4 @@
-# Aprende a utilizar Teams en las entrevistas laborales
+# Aprende a utilizar Teams en las entrevistas laborales.
 
 ### Microsoft Teams es una plataforma de comunicación y colaboración empresarial desarrollada por Microsoft. Fue lanzada en 2017 como parte de la suite de herramientas de productividad de Microsoft 365 (anteriormente conocida como Office 365). La plataforma está diseñada para facilitar la comunicación, la colaboración y la coordinación entre equipos de trabajo, ya sea en entornos corporativos, educativos u organizativos.
 
