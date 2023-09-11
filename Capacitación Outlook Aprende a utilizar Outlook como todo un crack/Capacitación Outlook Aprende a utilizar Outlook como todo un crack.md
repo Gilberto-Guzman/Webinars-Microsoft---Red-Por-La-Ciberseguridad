@@ -5,6 +5,10 @@ Outlook es una plataforma de software creada por Microsoft que ofrece una varied
 ![](imgs/capture_1.jpeg)
 ![](imgs/capture_2.jpeg)
 
+# Enlace al Webinar:
+
+https://www.facebook.com/redporlaciberseguridad/videos/312377951181855
+
 Nota: Tambien se tiene disponible una versión de escritorio. la cual incluye algunas opciones adicionales.
 
 ### Características:

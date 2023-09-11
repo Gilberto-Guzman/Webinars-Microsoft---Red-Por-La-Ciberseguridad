@@ -5,6 +5,10 @@
 ![](imgs/capture_1.jpeg)
 ![](imgs/capture_2.jpeg)
 
+# Enlace al Webinar:
+
+https://www.facebook.com/redporlaciberseguridad/videos/692435759573946
+
 Nota: Se recomienda utilizar Microsoft Teams en Microsoft Edge, Google Chrome o Firefox. Sin embargo, no se recomienda en Opera por incompatibilidades de la aplicación web.
 
 ![](imgs/capture_3.jpeg)
